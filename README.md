@@ -9,7 +9,7 @@ Current version is 2.3. The mod's text will only display in english (both region
 - Y + X + A + B: Gives you a **fairy**.
 - Y + A + Dpad Left: **Stores** your position and rotation into a **save state**.
 - Y + A + Dpad Right: **Warps** you at the saved position and rotation.
-- Y + A + Dpad Down: AWarps you at the correct location, in a free fall state, and gives you one fairy and two wings (execute on GSI for less lag), so that you can practice **wing flip**.
+- Y + A + Dpad Down: **Warps** you at the correct location, in a free fall state, and gives you one fairy and two wings (execute on GSI for less lag), so that you can practice **wing flip**.
 - Y + A + Dpad Up: Triggers the end of the Demon King Ganondorf fight cutscene that leads to **Demon Dragon**. Also gives Master Sword to speed up cutscenes, one Black Lizalfos Horn and two wings.
 - X + A + Dpad Down: **Dzuggles** your currently equipped weapon and reequips it. (made by the goat @dt13269)
 - L3 + R3 + B: **Dzuggles 100 times** (well, zuggle drop it after 10 dzuggles) your currently equipped weapon. Not really useful for actual practice, but it's funny.
