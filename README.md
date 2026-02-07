@@ -1,6 +1,6 @@
 A practice mod targeting 1.0.0 (it will ONLY work on this version) any% of *The Legend of Zelda: Tears of the Kingdom*.
 
-Current version is 2.4. The mod's text will only display in english (both regions) and russian, which is important for the mod menu to work.
+Current version is 3.0.
 
 ### Features
 
@@ -10,26 +10,40 @@ Current version is 2.4. The mod's text will only display in english (both region
 - Y + A + Dpad Left: **Stores** your position and rotation into a **save state**.
 - Y + A + Dpad Right: **Warps** you at the saved position and rotation.
 - Y + A + Dpad Down: **Warps** you at the correct location, in a free fall state, and gives you one fairy and two wings (execute on GSI for less lag), so that you can practice **wing flip**.
-- Y + A + Dpad Up: Triggers the end of the Demon King Ganondorf fight cutscene that leads to **Demon Dragon**. Also gives Master Sword to speed up cutscenes, one Black Lizalfos Horn and two wings.
-- X + A + Dpad Down: **Dzuggles** your currently equipped weapon and reequips it. (made by the goat @dt13269)
+- X + A + Dpad Down: **Dzuggles** your currently equipped weapon and reequips it. (zuggle node made by the goat @dt13269)
+- X + B + Dpad Down: **Dzuggles** your currently equipped weapon and drops it.
 - L3 + R3 + B: **Dzuggles 100 times** (well, zuggle drop it after 10 dzuggles) your currently equipped weapon. Not really useful for actual practice, but it's funny.
 - ZL + ZR + R3: Triggers a **BancChange** in order to refresh the map actors as well as putting an AS bow on your back instead of at your feet.
-- ZL + ZR + L3: Loads a "save" menu which allows you to load nine "saves" for now:
-  - Prologue, which just boots Prologue with the correct loadout and no flag turned on.
-  - Cog Skip Skip, which puts you just after Room of Awakening, in position to go in Cog Skip Skip, with the correct loadout and flags.
-  - Wing Bridge to ToT, which puts you on a wing where the Golem use to stand, with the correct loadout and flags.
-  - FDC to Ascend, which puts you just after the void out after interacting with Temple of Time door for the first time, with the correct loadout and flags.
-  - Ascend Overload Setup, which puts you inside the Ascend shrine, at the spot you do the dzuggles, with the correct loadout and flags.
-  - Early Battery, which puts you in the cave below Ascend shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
-  - Fuse Entry, which puts you at the start of the Fuse shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
-  - Fuse to Ultrahand, which puts you at the end of the Fuse shrine, with Fuse shrine already completed, overloaded with 10 dzuggles, with the correct loadout and flags.
-  - Ultrahand AS Fly, which puts you at the start of the Ultrahand shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
+- ZL + ZR + L3: Loads a mod menu which allows you:
+  - Load multiple "saves" for any% practice
+    - Prologue, which just boots Prologue with the correct loadout and no flag turned on.
+    - Cog Skip Skip, which puts you just after Room of Awakening, in position to go in Cog Skip Skip, with the correct loadout and flags.
+    - Wing Bridge to ToT, which puts you on a wing where the Golem use to stand, with the correct loadout and flags.
+    - FDC to Ascend, which puts you just after the void out after interacting with Temple of Time door for the first time, with the correct loadout and flags.
+    - Ascend Overload Setup, which puts you inside the Ascend shrine, at the spot you do the dzuggles, with the correct loadout and flags.
+    - Early Battery, which puts you in the cave below Ascend shrine, overloaded with 10 dzuggles (_for each subsequent save, players will have to do the Arrow Smuggle glitch themselves with the 10 dzuggles that the mod provides. Then trigger the BancChange command so that the bow gets put in the back instead of at the feet_), with the correct loadout and flags.
+    - Fuse Entry, which puts you at the start of the Fuse shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Fuse to Ultrahand, which puts you at the end of the Fuse shrine, with Fuse shrine already completed, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Ultrahand AS Fly, which puts you at the start of the Ultrahand shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Ultrahand To Time Stone, which puts you at the end of the Ultrahand shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Recall Entry, which puts you at the start of the Recall shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Ultrahand To Goddess Statue, which puts you at the Ultrahand warp point, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - GSI end, which puts you at the very end of GSI, after sending back the Decayed Master Sword, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Pre Deer Clip, which puts you next to the deer from deer clip route except it's replaced with a control stick so you can setup AS properly before using it. Overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Army, which puts you just next to the Army trigger, overloaded with 10 dzuggles, with the correct loadout and flags.
+    - Demon Dragon, which starts the Demon Dragon sequence, with the correct loadout and flags.
+  - Inventory utility:
+    - A shop with free items to grab if you need them
+    - Clearing your inventory (will NOT clear your powers & paraglider)
+    - Get 1,000 Rupees
+  - Other utility to set hearts, stamina or time
 
 #### Misc
 
 - 100% topaz drop rate on Daruk amiibos.
 - Visuals on key trigger areas such as all relevant Prologue areas and the area triggering an autosave before Purah Pad.
 - Any triggered area other than the Ganondorf cutscene one in Prologue will reset Prologue.
+- Demon King's Army Lizalfos, Gibdo and Moblin cutscenes are removed.
 
 ### Notes
 
@@ -45,6 +59,7 @@ Current version is 2.4. The mod's text will only display in english (both region
 - Echecetdame: Original idea and help through the theorycrafting stage
 - aquacluck: [lotuskit](https://github.com/aquacluck/totk-lotuskit) creator
 - Aergyl: Tons of help understanding the glitches better
+- Waikuteru: Event help
 
 ### How to install
 

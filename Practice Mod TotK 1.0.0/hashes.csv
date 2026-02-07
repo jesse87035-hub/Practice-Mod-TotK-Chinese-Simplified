@@ -1,8 +1,12 @@
 f9c6b4a7;Bool;PracticeIsFuseShrine
+80628ff4;Bool;PracticeIsUltrahandShrine
 a418b394;Bool;PracticeIsWing
 8c49dc38;Float;BancChangeRot
 67025b1e;Float;SaveStateRot
 a51550ce;Int;SaveStateState
+1adbe264;Int;Shop_TradeItemNum
+ca1af372;Int;Shop_TradeItemNum2
 ecb945d2;Int;ZuggleAmount
+7620eaf1;String64;Shop_SelectItemName
 e415c454;Vector3;BancChangePos
 426aeb64;Vector3;SaveStatePos
