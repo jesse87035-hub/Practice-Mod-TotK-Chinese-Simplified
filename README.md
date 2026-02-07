@@ -34,16 +34,16 @@ Current version is 3.0.
     - Demon Dragon, which starts the Demon Dragon sequence, with the correct loadout and flags.
   - Inventory utility:
     - A shop with free items to grab if you need them
-    - Clearing your inventory (will NOT clear your powers & paraglider)
+    - Clearing your inventory
     - Get 1,000 Rupees
-  - Other utility to set hearts, stamina or time
+  - Other utility to set hearts, stamina, battery or time
 
 #### Misc
 
 - 100% topaz drop rate on Daruk amiibos.
 - Visuals on key trigger areas such as all relevant Prologue areas and the area triggering an autosave before Purah Pad.
 - Any triggered area other than the Ganondorf cutscene one in Prologue will reset Prologue.
-- Demon King's Army Lizalfos, Gibdo and Moblin cutscenes are removed.
+- Demon King's Army Lizalfos, Gibdo and Moblin wave cutscenes are removed.
 
 ### Notes
 
