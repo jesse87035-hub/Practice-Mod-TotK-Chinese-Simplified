@@ -1,78 +1,77 @@
-A practice mod targeting 1.0.0 (it will ONLY work on this version) any% of *The Legend of Zelda: Tears of the Kingdom*.
+一个专门针对游戏 1.0.0 版本制作的 *《塞尔达传说：王国之泪》*(只在这个版本上运行)Any%的训练模组。
 
-Current version is 3.0.
+当前模组版本:3.0
 
-### Features
+### 功能
 
-#### Commands
+#### 命令
 
-- Y + X + A + B: Gives you a **fairy**.
-- Y + A + Dpad Left: **Stores** your position and rotation into a **save state**.
-- Y + A + Dpad Right: **Warps** you at the saved position and rotation.
-- Y + A + Dpad Down: **Warps** you at the correct location, in a free fall state, and gives you one fairy and two wings (execute on GSI for less lag), so that you can practice **wing flip**.
-- X + A + Dpad Down: **Dzuggles** your currently equipped weapon and reequips it. (zuggle node made by the goat @dt13269)
-- X + B + Dpad Down: **Dzuggles** your currently equipped weapon and drops it.
-- L3 + R3 + B: **Dzuggles 100 times** (well, zuggle drop it after 10 dzuggles) your currently equipped weapon. Not really useful for actual practice, but it's funny.
-- ZL + ZR + R3: Triggers a **BancChange** in order to refresh the map actors as well as putting an AS bow on your back instead of at your feet.
-- ZL + ZR + L3: Loads a mod menu which allows you:
-  - Load multiple "saves" for any% practice
-    - Prologue, which just boots Prologue with the correct loadout and no flag turned on.
-    - Cog Skip Skip, which puts you just after Room of Awakening, in position to go in Cog Skip Skip, with the correct loadout and flags.
-    - Wing Bridge to ToT, which puts you on a wing where the Golem use to stand, with the correct loadout and flags.
-    - FDC to Ascend, which puts you just after the void out after interacting with Temple of Time door for the first time, with the correct loadout and flags.
-    - Ascend Overload Setup, which puts you inside the Ascend shrine, at the spot you do the dzuggles, with the correct loadout and flags.
-    - Early Battery, which puts you in the cave below Ascend shrine, overloaded with 10 dzuggles (_for each subsequent save, players will have to do the Arrow Smuggle glitch themselves with the 10 dzuggles that the mod provides. Then trigger the BancChange command so that the bow gets put in the back instead of at the feet_), with the correct loadout and flags.
-    - Fuse Entry, which puts you at the start of the Fuse shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Fuse to Ultrahand, which puts you at the end of the Fuse shrine, with Fuse shrine already completed, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Ultrahand AS Fly, which puts you at the start of the Ultrahand shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Ultrahand To Time Stone, which puts you at the end of the Ultrahand shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Recall Entry, which puts you at the start of the Recall shrine, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Ultrahand To Goddess Statue, which puts you at the Ultrahand warp point, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - GSI end, which puts you at the very end of GSI, after sending back the Decayed Master Sword, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Pre Deer Clip, which puts you next to the deer from deer clip route except it's replaced with a control stick so you can setup AS properly before using it. Overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Army, which puts you just next to the Army trigger, overloaded with 10 dzuggles, with the correct loadout and flags.
-    - Demon Dragon, which starts the Demon Dragon sequence, with the correct loadout and flags.
-  - Inventory utility:
-    - A shop with free items to grab if you need them
-    - Clearing your inventory
-    - Get 1,000 Rupees
-  - Other utility to set hearts, stamina, battery or time
+- Y + X + A + B: 给玩家一只 **精灵**.
+- Y + A + 十字键左: **储存**玩家的位置和朝向为一个**保存状态**。
+- Y + A + 十字键右: **传送**到玩家保存的位置和朝向。
+- Y + A + 十字键下: **传送**玩家到正确的位置,进入自由落体状态,然后给与玩家一只精灵和两个翼(执行此指令时建议处于空岛区域，以减少卡顿),这样你就可以练习**扒翼**.
+- X + A + 十字键下: **动态过载** 玩家当前装备的武器. (所使用的过载节点由 @dt13269制作)
+- X + B + 十字键下: **动态过载** 玩家现在装备的武器然后丢弃他.
+- 左摇杆 + 右摇杆 + B: **动态过载 100 次** (实际上，在执行 10 次 动态过载后就会将武器丢弃。) 这个功能对实际练习没什么用，但挺有趣。
+- ZL + ZR + 右摇杆: 触发一次**原地传送** 以刷新地图中的 游戏对象，并将走私弓放到角色背上，而不是放在脚边.
+- ZL + ZR + 左摇杆: 打开**模组菜单**，可使用以下功能:
+  - 模组菜单允许你加载多个专门用于 Any% 速通练习的预设存档状态。
+    - **序章**, 从序章开始游戏，并配置好正确的装备，但不启用任何特殊旗标。
+    - **圆盘跳**, 将角色放在苏醒室之后的位置，方便练习圆盘跳，并预先设置好正确的装备和旗标。
+    - **铺翼至时之神殿**, 将角色放在魔像原本所在位置附近的翼上，并设置好正确的装备和旗标。
+    - **扒土豆**, 将角色放在第一次与时之神殿大门互动后，发生坠崖并重新出现的位置，预先设置好正确的装备和旗标。
+    - **通天神庙过载setup**, 将角色放在通天术神庙内部进行动态过载的位置，并设置好正确的装备和旗标。
+    - **扔电池**, 将角色放在通天术神庙下方的洞穴中，并预先完成 10 次动态过载所需的过载设置(_从这个存档以及后续存档继续练习时，玩家需要自行使用模组提供的 10 次动态过载完成走私弓设置。随后触发原地传送指令，使弓出现在背上，而不是脚边。_)，同时配置正确的装备和旗标 。
+    - **余料神庙内部分段**, 将角色放在余料建造神庙的起点，预先完成 10 次动态过载设置，并配置正确的装备和旗标。
+    - **余料至究极手分段**, 将角色放在余料建造神庙的终点，神庙已被视为完成，同时预先完成 10 次动态过载设置，并配置正确的装备和旗标.
+    - **究极手神庙内部分段**， 将角色放在究极手神庙的起点，预先完成 10 次 动态过载设置，并配置正确的装备和旗标。
+    - **究极手至时之神殿分段**，将角色放在究极手神庙的终点，并预先完成 10 次 动态过载 设置，同时配置正确的装备和旗标。
+    - **倒转神庙内部分段,**，将角色放在倒转乾坤神庙的起点，预先完成 10 次 动态过载设置，并配置正确的装备和旗标。
+    - **究极手至女神像**，将角色放在究极手对应的传送点，预先完成 10 次 动态过载设置，并配置正确的装备和旗标。
+    - **空岛结束,**，将角色放在空岛的最后阶段，即已经将腐朽的大师之剑送回塞尔达的位置，并预先完成 10 次 动态过载 设置，同时配置正确的装备和旗标。
+    - **简易鹿路线**，将角色放在鹿路线中鹿所在的位置附近。不过，原本的鹿会被一个操纵杆替代，这样就能在使用前正确设置走私弓 。该存档已预先完成 10 次 动态过载 设置，并配置正确的装备和旗标。
+    - **军势**，将角色放在触发魔王军战斗的位置附近，并预先完成 10 次 动态过载 设置，同时配置正确的装备和旗标。
+    - **黑龙**，直接开始黑龙战阶段，并配置好正确的装备和旗标。
+  - 物品栏工具：
+    - **免费商店**： 可以领取练习所需的免费物品。
+    - **清空物品栏**： 清除当前物品栏中的物品。
+    - **获得 1,000 卢比**： 直接获得 1,000 卢比。
+  - 其他实用功能包括设置心心、精力、电池分节或游戏时间。
 
-#### Misc
+#### 其他
 
-- 100% topaz drop rate on Daruk amiibos.
-- Visuals on key trigger areas such as all relevant Prologue areas and the area triggering an autosave before Purah Pad.
-- Any triggered area other than the Ganondorf cutscene one in Prologue will reset Prologue.
-- Demon King's Army Lizalfos, Gibdo and Moblin wave cutscenes are removed.
+- 使用达尔克尔amiibo时，黄玉（Topaz）的掉落率为 **100%**。
+- 在关键触发区域添加了**可视化提示**，包括序章中所有相关区域，以及在获得普尔亚平板之前会触发自动存档的区域。
+- 在序章中，除加侬多夫过场动画对应的区域外，触发任何其他区域都会**重置序章**。
+- **移除**了魔王军战斗中蜥蜴战士、吉波得和莫力布林各波次对应的过场动画。
 
-### Notes
+### 注意事项
 
-- Make sure to throw your weapon to remove any dzuggle past the "Ascend Overload Setup" save from the "save menu" before using it.
+- 在使用存档菜单中 **通天神庙过载setup** 之后的任何存档之前，请先将武器投掷出去，以清除之前残留的 动态过载 的状态。
 
-### Credits
-- Echocolat: Developer
-- dt13269: Helped a ton with AINB, [AINB library](https://github.com/dt-12345/ainb), [zuggle AINB node](https://github.com/dt-12345/zuggleAI)
-- Real Princess Zelda: Helped a ton with AINB
-- MrMystery: [Starlight](https://github.com/MrMystery-Official/Starlight-Dev) creator
-- Arch Leaders: [NX Editor](https://github.com/NX-Editor/NxEditor) creator
-- zeldamods/leoetlino: [EventEditor](https://github.com/zeldamods/event-editor) creators
-- Echecetdame: Original idea and help through the theorycrafting stage
-- aquacluck: [lotuskit](https://github.com/aquacluck/totk-lotuskit) creator
-- Aergyl: Tons of help understanding the glitches better
-- Waikuteru: Event help
+### 鸣谢
+- Echocolat: 模组开发者
+- dt13269: 在 AINB 方面提供了大量帮助， [AINB library](https://github.com/dt-12345/ainb), [zuggle AINB node](https://github.com/dt-12345/zuggleAI)
+- Real Princess Zelda: 在 AINB 方面提供了大量帮助。
+- MrMystery: [Starlight](https://github.com/MrMystery-Official/Starlight-Dev) 的开发者。
+- Arch Leaders: [NX Editor](https://github.com/NX-Editor/NxEditor) 的开发者。
+- zeldamods/leoetlino: [EventEditor](https://github.com/zeldamods/event-editor) 的开发者。
+- Echecetdame: 提出了最初的想法，并在理论研究阶段提供帮助。
+- aquacluck: [lotuskit](https://github.com/aquacluck/totk-lotuskit) 的开发者。
+- Aergyl: 提供了事件系统方面的帮助。
 
-### How to install
+### 如何安装
 
-Make sure to delete any previous installation of the mod if you're updating. Note that this is not compatible with 99% of mods (but it is compatible with the Intro Skip mod).
+如果您要更新，请务必删除之前安装的所有模组。请注意，此模组与 99% 的模组不兼容（但可以与 Intro Skip模组兼容）。
 
-#### If you're playing on emulator
+#### 如果你在模拟器上使用
 
-Download the emulator version of the mod in the releases and extract the `Practice Mod TotK 1.0.0` folder in your mod folder.
+从发布页面下载模拟器版本的模组，并将 `Practice Mod TotK 1.0.0`文件夹解压到您的模组文件夹中。
 
-#### If you're not using Simple Mod Manager
+#### 如果你不使用 Simple Mod Manager
 
-Download the normal version of the mod in the releases and extract the `atmosphere` folder from the archive in the root folder of your modded Switch's SD Card. Accept any file overwrite. To remove it, simply delete the `exefs` and `romfs` folders in `atmosphere\contents\0100F2C0115B6000`.
+在发布页面下载该模组（Mod）的常规版本，并将压缩包内的 `atmosphere` 文件夹解压至你已破解的 Switch 主机所用 SD 卡的根目录下。若系统提示文件覆盖，请选择确认。如需移除该模组，只需删除 `atmosphere\contents\0100F2C0115B6000` 目录下的 `exefs` 和 `romf​​s` 文件夹即可。
 
-#### If you're using [Simple Mod Manager](https://github.com/nadrino/SimpleModManager)
+#### 如果你使用 [Simple Mod Manager](https://github.com/nadrino/SimpleModManager)
 
-Download the Simple Mod Manager version of the mod in the releases and extract the `mods` folder from the archive in the root folder of your modded Switch's SD Card. Then you can enable the mod in Simple Mod Manager.
+在”发布“页面下载该模组的 Simple Mod Manager 版本，并将压缩包内的 `mods` 文件夹解压至你已进行模组化改造的 Switch 主机所用 SD 卡的根目录下。随后，你即可在 Simple Mod Manager 中启用该模组。
